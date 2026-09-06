@@ -1,0 +1,11 @@
+node_modules/
+dist/
+__pycache__/
+*.pyc
+.env
+data/raw/*.csv
+data/processed/*.csv
+data/processed/*.json
+*.egg-info/
+.vite/
+screenshots/*.png
